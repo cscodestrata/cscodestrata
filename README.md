@@ -1,4 +1,4 @@
-### Hi there 👋
+hi my name is cscodestrata
 
 <!--
 **cscodestrata/cscodestrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
